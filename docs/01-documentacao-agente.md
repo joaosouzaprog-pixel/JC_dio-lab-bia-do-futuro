@@ -59,10 +59,10 @@ flowchart TD
 
 | Componente | Descrição |
 |------------|-----------|
-| Interface | [ex: Chatbot em Streamlit] |
+| Interface | Chatbot |
 | LLM | [ex: GPT-4 via API] |
-| Base de Conhecimento | [ex: JSON/CSV com dados do cliente] |
-| Validação | [ex: Checagem de alucinações] |
+| Base de Conhecimento | Diretrizes Poup-IA.pdf |
+| Validação | Checagem de alucinações |
 
 ---
 
